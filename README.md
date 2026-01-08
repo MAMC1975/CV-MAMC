@@ -3,7 +3,7 @@
 **PhD(c) en Ciencias, Mención Sistemática y Ecología**  
 📞 +56 9 4641 9615 | 📧 mariomontecinos@gmail.com  
 📍 Camino a Boca Budi s/n, Playa Maule, Puerto Saavedra, Región de La Araucanía, Chile  
-🔗 [GitHub Profile](https://github.com/MAMC1975)
+🔗 [Perfil de GitHub](https://github.com/MAMC1975)
 
 ---
 
@@ -68,30 +68,7 @@
 - Establecimiento de protocolos de muestreo y medidas de administración pesquera.
 
 ---
-## 📊 Figuras Científicas
 
-### **Proyectos de Investigación**
-
-#### 1. **Vigilancia Ambiental - Río Lebu**
-- **Mapa de puntos de muestreo:** [`Informe_N3_Biota_Acuatica_Nodosur_Lebu-09.jpg`](https://github.com/MAMC1975/Scientific-Figures/blob/main/Informe_N3_Biota_Acuatica_Nodosur_Lebu-09.jpg)
-- **Análisis de Fitoplancton (Abundancia y Riqueza):** [`Informe_N3_Biota_Acuatica_Nodosur_Lebu-15.jpg`](https://github.com/MAMC1975/Scientific-Figures/blob/main/Informe_N3_Biota_Acuatica_Nodosur_Lebu-15.jpg)
-- **Análisis de Zooplancton (Abundancia y Riqueza):** [`Informe_N3_Biota_Acuatica_Nodosur_Lebu-16.jpg`](https://github.com/MAMC1975/Scientific-Figures/blob/main/Informe_N3_Biota_Acuatica_Nodosur_Lebu-16.jpg)
-- **Análisis de Clúster (Fitoplancton y Zooplancton):** [`Informe_N3_Biota_Acuatica_Nodosur_Lebu-17.jpg`](https://github.com/MAMC1975/Scientific-Figures/blob/main/Informe_N3_Biota_Acuatica_Nodosur_Lebu-17.jpg)
-
-#### 2. **Evaluación de Recursos Bentónicos - Bahía de Corral**
-- **Distribución de tallas de Huepo 2012:** [`Fig_43.jpg`](https://github.com/MAMC1975/Scientific-Figures/blob/main/Fig_43.jpg)
-- **Distribución de tallas de Huepo 2014:** [`Fig_44.jpg`](https://github.com/MAMC1975/Scientific-Figures/blob/main/Fig_44.jpg)
-- **Distribución de tallas de Navajuela 2014:** [`Fig_46.jpg`](https://github.com/MAMC1975/Scientific-Figures/blob/main/Fig_46.jpg)
-
-#### 3. **Evaluación de Stock - Congrio Dorado**
-- **Evolución de la flota pesquera (1978-2002):** [`FINAL_CD_2004-16.jpg`](https://github.com/MAMC1975/Scientific-Figures/blob/main/FINAL_CD_2004-16.jpg)
-- **Desembarques por flota (1982-2002):** [`FINAL_CD_2004-17.jpg`](https://github.com/MAMC1975/Scientific-Figures/blob/main/FINAL_CD_2004-17.jpg)
-- **CPUE por flota (1986-2002):** [`FINAL_CD_2004-36.jpg`](https://github.com/MAMC1975/Scientific-Figures/blob/main/FINAL_CD_2004-36.jpg)
-- **Modelos CPUE vs Desembarques:** [`FINAL_CD_2004-43.jpg`](https://github.com/MAMC1975/Scientific-Figures/blob/main/FINAL_CD_2004-43.jpg)
-- **Mortalidad por pesca y tasas de explotación:** [`Final_CD_2004-47.jpg`](https://github.com/MAMC1975/Scientific-Figures/blob/main/Final_CD_2004-47.jpg)
-- **Puntos biológicos de referencia:** [`Final_CD_2004-51.jpg`](https://github.com/MAMC1975/Scientific-Figures/blob/main/Final_CD_2004-51.jpg)
-
----
 ## 💻 Habilidades Técnicas
 
 ### **Sistemas de Información Geográfica (GIS)**
@@ -157,10 +134,42 @@
 
 ---
 
+## 📊 Figuras Científicas
 
+### **Proyectos de Investigación**
+
+#### 1. **Vigilancia Ambiental - Río Lebu**
+- **Mapa de puntos de muestreo:** ![Mapa](https://raw.githubusercontent.com/MAMC1975/Scientific-Figures/main/Informe_N3_Biota%20Acuatica_Nodosur_Lebu-09.jpg)
+- **Análisis de Fitoplancton (Abundancia y Riqueza):** ![Fitoplancton](https://raw.githubusercontent.com/MAMC1975/Scientific-Figures/main/Informe_N3_Biota%20Acuatica_Nodosur_Lebu-15.jpg)
+- **Análisis de Zooplancton (Abundancia y Riqueza):** ![Zooplancton](https://raw.githubusercontent.com/MAMC1975/Scientific-Figures/main/Informe_N3_Biota%20Acuatica_Nodosur_Lebu-16.jpg)
+- **Análisis de Clúster (Fitoplancton y Zooplancton):** ![Clúster](https://raw.githubusercontent.com/MAMC1975/Scientific-Figures/main/Informe_N3_Biota%20Acuatica_Nodosur_Lebu-17.jpg)
+
+#### 2. **Evaluación de Recursos Bentónicos - Bahía de Corral**
+- **Talasación Voronoi:** ![Voronoi](https://raw.githubusercontent.com/MAMC1975/Scientific-Figures/main/Fig%2041.jpg)
+- **Distribución de tallas de Huepo 2012:** ![Huepo 2012](https://raw.githubusercontent.com/MAMC1975/Scientific-Figures/main/Fig%2043.jpg)
+- **Distribución de tallas de Huepo 2014:** ![Huepo 2014](https://raw.githubusercontent.com/MAMC1975/Scientific-Figures/main/Fig%2044.jpg)
+- **Distribución de tallas de Navajuela 2014:** ![Navajuela 2014](https://raw.githubusercontent.com/MAMC1975/Scientific-Figures/main/Fig%2046.jpg)
+
+#### 3. **Evaluación de Stock - Congrio Dorado**
+- **Evolución de la flota pesquera (1978-2002):** ![Flota](https://raw.githubusercontent.com/MAMC1975/Scientific-Figures/main/FINAL%20CD%202004-16.jpg)
+- **Desembarques por flota (1982-2002):** ![Desembarques](https://raw.githubusercontent.com/MAMC1975/Scientific-Figures/main/FINAL%20CD%202004-17.jpg)
+- **CPUE por flota (1986-2002):** ![CPUE](https://raw.githubusercontent.com/MAMC1975/Scientific-Figures/main/FINAL%20CD%202004-36.jpg)
+- **Modelos CPUE vs Desembarques:** ![Modelos](https://raw.githubusercontent.com/MAMC1975/Scientific-Figures/main/FINAL%20CD%202004-43.jpg)
+- **Mortalidad por pesca y tasas de explotación:** ![Mortalidad](https://raw.githubusercontent.com/MAMC1975/Scientific-Figures/main/Final%20CD%202004-47.jpg)
+- **Puntos biológicos de referencia:** ![Referencia](https://raw.githubusercontent.com/MAMC1975/Scientific-Figures/main/Final%20CD%202004-51.jpg)
+
+---
+
+## 🌐 Acceso a Versiones Completas
+
+- **📄 CV Interactivo en Español:** [index.html](https://mamc1975.github.io/CV-MAMC/)
+- **📄 CV Interactivo en Inglés:** [Index_html_en.html](https://mamc1975.github.io/CV-MAMC/Index_html_en.html)
+- **🔬 Repositorio de Figuras Científicas:** [Scientific-Figures](https://github.com/MAMC1975/Scientific-Figures)
+
+---
 
 **Última actualización:** 8 de enero de 2026
 
 ---
 
-*Este CV está disponible en formato interactivo en mi perfil de GitHub. Para ver las figuras científicas completas, visita el repositorio [Scientific-Figures](https://github.com/MAMC1975/Scientific-Figures).*
+*Este CV está disponible en formato interactivo. Para ver las figuras científicas completas, visita el repositorio [Scientific-Figures](https://github.com/MAMC1975/Scientific-Figures).*
